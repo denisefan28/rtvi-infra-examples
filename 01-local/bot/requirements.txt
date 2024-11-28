@@ -3,3 +3,6 @@ requests
 python-dotenv
 loguru
 websockets
+torch
+torchaudio
+pipecat-ai[silero]
